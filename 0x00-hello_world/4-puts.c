@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main - main function to display a stament
-*return:always 0 (success)
+*Return: always 0 (success)
 */
 int main(void)
 {
