@@ -2,6 +2,7 @@
 
 /**
  * print_last_digit - prints the value of the last digit
+  * @n: The number in question.
  * Return: The value of the last digit.
  */
 int print_last_digit(int n)
